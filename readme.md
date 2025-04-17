@@ -1,7 +1,8 @@
 # 👋 Hello! I'm Yadala Venkata Siva Surya
 
-🎯 Aspiring Developer | 📊 Data Science Enthusiast | 💻 Python, ML & Web Development  
+🎯 Aspiring Developer | 💻 Web Development, ML & DL Enthusiast | 🐍 Python Lover  
 📍 Based in India | 🌱 Always learning something new
+
 
 ---
 
