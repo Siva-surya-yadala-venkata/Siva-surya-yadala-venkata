@@ -18,7 +18,7 @@ I'm a passionate and self-driven tech enthusiast with hands-on experience in Pyt
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, JavaScript, Java, C
 - **Web:** ReactJS, Flask, FastAPI, HTML/CSS
 - **ML/AI:** Scikit-learn, NumPy, Pandas, EasyOCR, YOLO, Craft
 - **Tools:** Git, VS Code, Postman, Jupyter Notebook
