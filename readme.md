@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Yadala Venkata Siva Surya
 
-🎯 Aspiring Developer | 💻 Web Development, ML & DL Enthusiast | 🐍 Python Lover  
+🎯 Aspiring Developer | Gen Ai , Agentic AI ,💻 Web Development(MERN , FastAPI , Flask , CICD, Redis(Cache)) ,  ML , DL Enthusiast | 🐍 Python Lover  
 📍 Based in India | 🌱 Always learning something new
 
 
